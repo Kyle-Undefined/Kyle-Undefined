@@ -9,6 +9,7 @@ A few of my favorite projects:
 
 * [Personal Site](https://github.com/Kyle-Undefined/kyle-undefined.github.io) - Built with Astro, was being built with Hugo
 * [UndefinedLabs.tech](https://github.com/Kyle-Undefined/undefinedlabs.tech) - ASP.Net ShareX host, powered by Convex
+* [nerdsnipe.wtf](https://github.com/Kyle-Undefined/nerdsnipe.wtf) - A fan site for the [Nerd Snipe](http://nerdsnipe.link/pod) podcast
 * [sshh](https://github.com/Kyle-Undefined/sshh) - First React app, an encrypted, local-first command-line for your thoughts
 * [umbodsmadr](https://github.com/Kyle-Undefined/umbodsmadr) - The arbiter of policy within the autonomous realm
 * [Gandr](https://github.com/Kyle-Undefined/gandr) - A WSL bridge for Claude Desktop on Windows via MCP
